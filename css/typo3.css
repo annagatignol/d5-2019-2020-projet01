@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css?family=Bangers|Barrio|Beth+Ellen|Cormorant+Garamond|Fredoka+One|Merriweather|Montserrat+Alternates|Orbitron|Patrick+Hand+SC|VT323&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Abel|Barrio|Beth+Ellen|Cute+Font|Mansalva|Monoton|Orbitron|Parisienne|Patrick+Hand+SC|Special+Elite|Staatliches|Turret+Road|VT323&display=swap');
+body {
+
+}
+
+p, h1, h2, h3, h4 {
+
+}
+p {padding-bottom: 1.5em;
+text-align: justify;
+font-family: 'VT323', monospace;
+font-weight: 200;
+line-height: 1.1;
+font-size: 1.1em;}
+
+h1, h2, h3 {
+font-family: 'Turret Road', cursive;
+ font-weight: 800;
+text-align: justify;
+}
+
+
+h1 {
+  margin-top: 0;
+  font-size: 1.5em;
+  margin-bottom: 1.6em;
+  line-height: 1.3;
+}
+
+h2 {font-size: 1.1em;
+  margin-bottom: 1em;
+  line-height: 1.2;}
+
+h3 {font-size: 1em;
+  line-height: 1.1;
+  margin-bottom: 0.9em;
+
+}
+#typo3 {
+  background-color: rgba(255,255,255,0.4);
+
+}
+#fleche{
+font-family: 'Turret Road', cursive;
+text-decoration: none;
+font-size: 0.8em;
+color: white;
+font-weight: bold;
+background-color: orange;
+padding: 0.8em;
+}
+#fleche:hover{
+  color: orange;
+  background-color: white;
+}
+#typo3:hover {
+  background-color: orange;
+  color: white;
+
+}

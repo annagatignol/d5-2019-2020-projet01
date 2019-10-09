@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css?family=Bangers|Barrio|Beth+Ellen|Cormorant+Garamond|Fredoka+One|Merriweather|Montserrat+Alternates|Orbitron|Patrick+Hand+SC|VT323&display=swap');
+body {
+
+}
+
+p, h1, h2, h3, h4 {
+
+}
+p {padding-bottom: 1.6em;
+text-align: justify;
+font-family: 'Beth Ellen', cursive;
+font-weight: 200;
+line-height: 1.2;
+font-size: 0.9em;}
+
+h1, h2, h3 {
+  font-family: 'Beth Ellen', cursive;
+ font-weight: 800;
+text-align: justify;
+}
+
+
+h1 {
+  margin-top: 0;
+  font-size: 1.5em;
+  margin-bottom: 2em;
+  line-height: 1.8;
+}
+
+h2 {font-size: 1.2em;
+  margin-bottom: 1em;
+  line-height: 1.5;}
+
+h3 {font-size: 1em;
+  line-height: 1.3;
+  margin-bottom: 1em;
+
+}
+#typo2 {
+  background-color: rgba(255,255,255,0.4);
+
+}
+#fleche{
+font-family: 'Beth Ellen', cursive;
+text-decoration: none;
+font-size: 0.8em;
+color: white;
+font-weight: bold;
+background-color: orange;
+padding: 0.8em;
+}
+#fleche:hover{
+  color: orange;
+  background-color: white;
+}
+#typo2:hover {
+  background-color: orange;
+  color: white;
+
+}

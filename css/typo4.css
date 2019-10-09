@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css?family=Bangers|Barrio|Beth+Ellen|Cormorant+Garamond|Fredoka+One|Merriweather|Montserrat+Alternates|Orbitron|Patrick+Hand+SC|VT323&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Abel|Barrio|Beth+Ellen|Cute+Font|Mansalva|Monoton|Orbitron|Parisienne|Patrick+Hand+SC|Special+Elite|Staatliches|Turret+Road|VT323&display=swap');
+body {
+
+}
+
+p, h1, h2, h3, h4 {
+
+}
+p {padding-bottom: 1.9em;
+text-align: justify;
+font-family: 'Montserrat Alternates', sans-serif;
+font-weight: 200;
+line-height: 1.3;
+font-size: 0.8em;}
+
+h1, h2, h3 {
+  font-family: 'Fredoka One', cursive;
+ font-weight: 800;
+text-align: justify;
+}
+
+
+h1 {
+  margin-top: 0;
+  font-size: 1.5em;
+  margin-bottom: 2em;
+  line-height: 1.2;
+}
+
+h2 {font-size: 1.1em;
+  margin-bottom: 1.6em;
+  line-height: 1.1;}
+
+h3 {font-size: 1em;
+  line-height: 1.2;
+  margin-bottom: 1em;
+
+}
+#typo4 {
+  background-color: rgba(255,255,255,0.4);
+
+}
+
+
+#fleche{
+font-family: 'Fredoka One', cursive;
+text-decoration: none;
+font-size: 0.8em;
+color: white;
+font-weight: bold;
+background-color: orange;
+padding: 0.8em;
+}
+#fleche:hover{
+  color: orange;
+  background-color: white;
+}
+#typo4:hover {
+  background-color: orange;
+  color: white;
+
+}
